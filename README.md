@@ -1,16 +1,10 @@
-# finpro
+FINAL PROJECT POOP MAP
+NAMA : 
+1. DHIKA DZAKYA ARIFIN (124220096)
+2. ANDRIAN JONATHAN PRAMUDITP (124220120)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+API : GOOGLE MAPS
+- Direction API
+- Geolocation API
+- Places API
+- Maps JavaScript API
